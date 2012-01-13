@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  src: MyString
+  eqid: 1
+  version: MyString
+  happend_at: 2012-01-13 17:50:11
+  lat: 1.5
+  lon: 1.5
+  mag: 1.5
+  depth: 1.5
+  nst: 1
+  region: MyString
+
+two:
+  src: MyString
+  eqid: 1
+  version: MyString
+  happend_at: 2012-01-13 17:50:11
+  lat: 1.5
+  lon: 1.5
+  mag: 1.5
+  depth: 1.5
+  nst: 1
+  region: MyString
